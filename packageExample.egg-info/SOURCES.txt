@@ -1,0 +1,7 @@
+license.txt
+setup.py
+packageExample/__init__.py
+packageExample.egg-info/PKG-INFO
+packageExample.egg-info/SOURCES.txt
+packageExample.egg-info/dependency_links.txt
+packageExample.egg-info/top_level.txt

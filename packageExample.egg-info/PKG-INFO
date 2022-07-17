@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: packageExample
+Version: 0.3
+Summary: This is a utility package to convert list to str
+Home-page: UNKNOWN
+Author: Piyush
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: license.txt
+
+This is a utility package to convert list to str.No other specific descriptions to mention
+
